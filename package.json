@@ -1,0 +1,17 @@
+{
+  "name": "devtools",
+  "description": "Using Grunt and Chrome Workspaces for in-browser development.",
+  "author": "Todd Motto",
+  "homepage": "http://toddmotto.com",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-sass": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-watch": "~0.4.4",
+    "connect-livereload": "~0.2.0",
+    "grunt-open": "~0.2.0",
+    "matchdep": "~0.1.2"
+  }
+}
